@@ -1,0 +1,34 @@
+.cen {
+        text-align: center;
+}
+.mt {
+        margin-top: 15px;
+}
+.mb{
+        margin-bottom: 15px;
+}
+.ml{
+        margin-left: 15px;
+}
+.mr{
+        margin-right: 15px;
+}
+
+/* 上边三个按钮 */
+.nav {
+        display: flex;
+        justify-content: space-between;
+        height: 44px;
+        align-items: center;
+        padding-right: 15px;
+        padding-left: 15px;
+}
+.diary {
+        font-size: 22px;
+        font-weight: 550;
+}
+.fz-xl {
+        font-size: 24px;
+        /* color: #409eff; */
+}
+/* 上边三个按钮  结束 */
